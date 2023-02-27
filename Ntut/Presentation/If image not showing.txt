@@ -1,0 +1,6 @@
+Problem: When you output or imbed some images (presumably .svg files), you close it, reopen it, sometimes the images do not show up.
+
+Solution:
+View->Activate Command Palatte (Ctrl+Shift+C)->Trust notebook
+
+All done.
